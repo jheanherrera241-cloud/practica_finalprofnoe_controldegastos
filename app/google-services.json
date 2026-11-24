@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695286234945",
+    "project_id": "controlgastos-e912f",
+    "storage_bucket": "controlgastos-e912f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695286234945:android:7fcc00a17d0fffe850abc0",
+        "android_client_info": {
+          "package_name": "com.jeampol.comjeampolcontrolgastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdQ4hRKHf6MQMIPZfM4SB8zsC_17-dSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
